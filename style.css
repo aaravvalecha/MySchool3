@@ -1,0 +1,11 @@
+#video{
+height:500px;
+width: 100%;
+border: none;
+}
+#highgate_library{
+    width:80%;
+}
+body{
+    background-color: rgb(241, 208, 241);
+}
